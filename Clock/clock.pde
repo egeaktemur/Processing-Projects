@@ -124,7 +124,7 @@ void draw() {
       }
   }
   if (shour==9){
-    for (int x = 31; x < 36; x = x+1) {
+    for (int x = 33; x < 38; x = x+1) {
       ShouldBeColored.append(x);
     }
     if(tamsaat==false){
