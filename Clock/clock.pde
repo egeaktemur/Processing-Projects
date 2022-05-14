@@ -52,7 +52,6 @@ void draw() {
   if (fhour==1){
     for (int x = 4; x < 7; x = x+1) {
       ShouldBeColored.append(x);
-      
     }
   }
   ///////////////////////////////////////////////////////
